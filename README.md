@@ -1,5 +1,5 @@
 # Login-Signup-firebase
-Login and Signup Using Firebase
+Login and Signup Using Firebase , Goes to homescreen if u login/signup succsesfully
 ![Screenshot_2023-09-21-03-58-51-977_com example metro](https://github.com/The-Wolf25/Login-Signup-firebase/assets/134403686/8b0d2bf3-dd84-4ae5-a903-9a29a5eaf3c0)
 ![Screenshot_2023-09-21-03-59-01-026_com example metro](https://github.com/The-Wolf25/Login-Signup-firebase/assets/134403686/ff0103d6-881b-4751-916b-9b2dca0e3753)
 ![Screenshot_2023-09-21-03-59-43-386_com example metro](https://github.com/The-Wolf25/Login-Signup-firebase/assets/134403686/c0808ca0-6a96-49ce-a93b-7273b9c2762c)
